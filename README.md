@@ -28,7 +28,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My clone of <a href="portfolio-kaishigui.vercel.app" target="_blank"> Spotify</a> which features playlist seletion as well as an music player <br/>
+My music site clone of <a href="https://spotify-kaishigui.vercel.app/" target="_blank"> Spotify</a> which features playlist seletion as well as an music player <br/>
 
 This project was built using these technologies.
 
@@ -36,12 +36,13 @@ This project was built using these technologies.
 - Node.js
 - Spotify API
 - Material UI
+- Redux
 - VsCode
 - Vercel
 
 ## Features
 
-**📖 Multi-Page Layout**
+**📖 Single-Page Layout**
 
 **🎨 Styled with Material UI **
 
